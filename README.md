@@ -8,7 +8,8 @@
 
 ### Связь со мной
 - 💻 Мой вк: https://vk.com/artsuz
-- 📚 Моя почта: kudirev@mail.ru
+- ✉️ Мой mail: kudirev@mail.ru
+- 📮 Мой LinkedIn: www.linkedin.com/in/suzart
 
 
 
