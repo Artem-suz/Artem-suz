@@ -17,6 +17,7 @@
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![Vue](https://shields.io/badge/-Vue-282c34?logo=vuedotjs&style=for-the-badge&logoColor=4FC08D)](https://vuejs.org/)
 [![Vuex](https://shields.io/badge/-Vuex-282c34?logo=vuedotjs&style=for-the-badge&logoColor=4FC08D)](https://vuex.vuejs.org/)
+[![Nuxt](https://shields.io/badge/-Nuxt-282c34?logo=nuxtdotjs&style=for-the-badge&logoColor=00DC83)](https://nuxt.com/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-suz&layout=compact)
